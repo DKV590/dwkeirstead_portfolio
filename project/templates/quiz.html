@@ -1,0 +1,63 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quiz
+{% endblock %}
+
+{% block main %}
+    <br>
+    {% if (questions == 'chinese' and answers == 'english') or (questions == 'english' and answers == 'chinese') %}
+        <h4>Vocabulary Quiz: {{questions | capitalize}} to {{answers | capitalize}}</h4>
+        <h6>Select the Correct {{answers | capitalize}} Translation for each {{questions | capitalize}} Word or Phrase: </h6>
+    {% elif questions == 'chinese' and answers == 'pinyin' %}
+        <h4>Chinese Quiz: 汉字 to 拼音</h4>
+        <h6>Select the Correct Pinyin for following {{questions | capitalize}} Characters: </h6>
+    {% elif questions == 'pinyin' and answers == 'chinese' %}
+        <h4>Chinese Quiz: 拼音 to 汉字</h4>
+        <h6>Select the Correct {{questions | capitalize}} Characters for the following Pinyin: </h6>
+    {% endif %}
+    <br>
+    {% for question in quiz %}
+    <div id="question{{ loop.index }}" class="item">
+    <table class=quiz-table>
+        <thead>
+            <tr>
+                <th>{{ loop.index }} </th>
+                {% if display_other is defined and display_other == 'Yes' and questions != 'english'%}
+                    <th><h6><b>{{ correct_answers[loop.index - 1][questions] }} ({{ correct_answers[loop.index - 1][other]}})</b></h6></th>
+                {% else %}
+                    <th><h6><b>{{ correct_answers[loop.index - 1][questions] }}</b></h6></th>
+                {% endif %}
+            </tr>
+            </thead>
+            <tbody>
+                {% for option in question %}
+                    <tr>
+                        <td><b>{{ letters[loop.index - 1] }}</b></td>
+                        {% if display_other is defined and display_other == 'Yes' and questions == 'english'%}
+                            <td>{{ option[answers] }} ({{ option[other] }})</td>
+                        {% else %}
+                            <td>{{ option[answers] }}</td>
+                        {% endif %}
+                    </tr>
+                {% endfor %}
+            </tbody>
+    </table>
+    <br>
+    <form action="/quiz-submit" method="post">
+    <select name="question_{{ loop.index - 1}}">
+        <option value="" disabled selected>Select Answer</option>
+        {% for option in question %}
+            {% if display_other is defined and display_other == 'Yes' and questions == 'english'%}
+            <option value="{{ option }}">{{ letters[loop.index - 1]  }}: {{ option[answers] }} ({{ option[other] }})</option>
+            {% else %}
+            <option value="{{ option }}">{{ letters[loop.index - 1]  }}: {{ option[answers] }}</option>
+            {% endif %}
+        {% endfor %}
+    </select>
+    <hr>
+    </div>
+    {% endfor %}
+    <button class="btn btn-primary" type="submit">Submit Answers</button>
+    </form>
+{% endblock %}

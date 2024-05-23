@@ -1,0 +1,1043 @@
+﻿id,class_id,chinese,pinyin,toneless,english,length,source
+1,1,吃饭,chīfàn,chifan,to eat,2,Class
+2,1,一份,yī fèn,yi fen,measure word for portions,2,Class
+3,1,一顿,yī dùn,yi dun,measure word for periods of time,2,Class
+4,1,西红柿,xīhóngshì,xihongshi,tomato,3,Class
+5,1,炒,chǎo,chao,fry / sauté,1,Class
+6,1,鸡蛋,jīdàn,jidan,chicken egg,2,Class
+7,1,饺子,jiǎozi,jiaozi,dumpling,2,Class
+8,1,繁忙,fánmáng,fanmang,busy,2,Class
+9,1,今天,jīntiān,jintian,today,2,Class
+10,1,休息,xiūxí,xiuxi,to rest,2,Class
+11,1,等候,děnghòu,denghou,to wait,2,Class
+12,1,准备,zhǔnbèi,zhunbei,ready,2,Class
+13,1,一共,yīgòng,yigong,in total,2,Class
+14,1,多少钱,duōshǎo qián,duoshao qian,how much does it cost,3,Class
+15,1,买单,mǎidān,maidan,bill,2,Class
+16,1,元,yuán,yuan,yuan (Chinese currency),1,Class
+17,1,好的,hǎo de,hao de,OK,2,Class
+18,1,谢谢,xièxiè,xiexie,thank you,2,Class
+19,1,不客气,bù kèqì,bu keqi,you are welcome,3,Class
+20,1,友好服务,yǒuhǎo fúwù,youhao fuwu,friendly welcoming service,4,Class
+21,2,下雨,xià yǔ,xia yu,rain,2,Class
+22,2,雨伞,yǔsǎn,yusan,umbrella,2,Class
+23,2,款式,kuǎnshì,kuanshi,style,2,Class
+24,2,多少,duōshǎo,duoshao,how many,2,Class
+25,2,欢迎光临,huānyíng guānglín,huanying guanglin,welcome,4,Class
+26,2,玫瑰,méiguī,meigui,rose,2,Class
+27,2,百合,bǎihé,baihe,lily,2,Class
+28,2,洗手间,xǐshǒujiān,xishoujian,restroom,3,Class
+29,2,打扰一下,dǎrǎo yīxià,darao yixia,may I bother you,4,Class
+30,2,请问,qǐngwèn,qingwen,excuse me,2,Class
+31,2,哪里,nǎlǐ,nali,where,2,Class
+32,2,这里,zhèlǐ,zheli,here,2,Class
+33,2,那里,nàlǐ,nali,there,2,Class
+34,3,土,tǔ,tu,earth,1,Class
+35,3,尘土,chéntǔ,chentu,dust,2,Class
+36,3,土豆,tǔdòu,tudou,potato,2,Class
+37,3,地,de,de,earth/ground,1,Class
+38,3,土地,tǔdì,tudi,ground,2,Class
+39,3,种地,zhòng dì,zhong di,to plant crops,2,Class
+40,3,地点,dìdiǎn,didian,location,2,Class
+41,3,地址,dìzhǐ,dizhi,address,2,Class
+42,3,地方,dìfāng,difang,place/location,2,Class
+43,3,夏天,xiàtiān,xiatian,summer,2,Class
+44,4,秋天,qiūtiān,qiutian,autumn,2,Class
+45,4,冬天,dōngtiān,dongtian,winter,2,Class
+46,4,口,kǒu,kou,mouth,1,Class
+47,4,出口,chūkǒu,chukou,exit,2,Class
+48,4,入口,rùkǒu,renkou,entrance,2,Class
+49,4,门口,ménkǒu,meinkou,doorway,2,Class
+50,4,口语,kǒuyǔ,kouyu,spoken language,2,Class
+51,4,人,rén,ren,people,1,Class
+52,4,人们,rénmen,renmen,people,2,Class
+53,4,男人,nánrén,nanren,man,2,Class
+54,4,女人,nǚrén,nuren,woman,2,Class
+55,4,人才,réncái,rencai,talent,2,Class
+56,4,人口,rénkǒu,renkou,population,2,Class
+57,4,加入,jiārù,jiaru,join,2,Class
+58,4,收入,shōurù,shouru,earn,2,Class
+59,5,种子,zhǒngzǐ,zhongzi,seed,2,Class
+60,5,人种,rén zhǒng,ren zhong,race,2,Class
+61,5,种类,zhǒnglèi,zhonglei,type,2,Class
+62,5,种菜,zhòng cài,zhong cai,plant vegetables,2,Class
+63,5,种植,zhòngzhí,zhongzhi,plant/grow,2,Class
+64,6,进口,Jìnkǒu,jinkou,import/entrance,2,Class
+65,6,各种各样,gè zhǒng gè yàng,ge zhong ge yang,all kinds of,4,Class
+66,6,吉他,jítā,jita,guitar,2,Class
+67,6,遍天下,biàn tiānxià,bian tianxia,all over the world,3,Class
+68,6,东,dōng,dong,east,1,Class
+69,6,东方,dōngfāng,dongfang,east,2,Class
+70,6,东门,dōng mén,dong men,east door/gate,2,Class
+71,6,东面,dōng miàn,dong mian,east side,2,Class
+72,6,西,xī,xi,west,1,Class
+73,6,东西,dōngxī,dongxi,things,2,Class
+74,6,距离,jùlí,juli,distance,2,Class
+75,6,来往,láiwǎng,laiwang,communicate,2,Class
+76,7,北,běi,bei,north,1,Class
+77,7,南,nán,nan,south,1,Class
+78,7,极,jí,ji,pole,1,Class
+79,7,京,jīng,jing,capital,1,Class
+80,7,瓜,guā,gua,melon,1,Class
+81,7,风,fēng,feng,wind,1,Class
+82,7,走遍,zǒu biàn,zou bian,go all over,2,Class
+83,8,上,shàng,shang,up,1,Class
+84,8,下,xià,xia,down,1,Class
+85,8,上午,shàngwǔ,shangwu,morning,2,Class
+86,8,下午,xiàwǔ,xiawu,afternoon,2,Class
+87,8,上班,shàngbān,shangban,go to work,2,Class
+88,8,下班,xiàbān,xiaban,get off work,2,Class
+89,8,车,chē,che,car,1,Class
+90,8,上车,shàng chē,shang che,get in a vehicle,2,Class
+91,8,下车,xià chē,xia che,get off a vehicle,2,Class
+92,8,车站,chēzhàn,chezhan,station,2,Class
+93,8,上级,shàngjí,shanji,superior,2,Class
+94,8,下级,xiàjí,xiaji,subordinate,2,Class
+95,8,上面,shàngmiàn,shangmian,above,2,Class
+96,8,下面,xiàmiàn,xiamian,below,2,Class
+97,8,木耳,mùěr,mu er,tree ear fungus,2,Class
+98,8,木,mù,mu,wood,1,Class
+99,8,目光,mùguāng,muguang,vision / look,2,Class
+100,8,耳光,ěrguāng,erguang,slap in the face,2,Class
+101,8,足,zú,zu,foot,1,Class
+102,8,足球,zúqiú,zuqiu,football,2,Class
+103,8,成功,chénggōng,chenggong,success,2,Class
+104,9,尊敬,Zūnjìng,Zunjing,respect,2,Class
+105,9,手足之情,shǒuzú zhī qíng,shouzu zhi qing,brotherhood,4,class
+106,9,深,shēn,shen,deep,1,Class
+107,9,目的,mùdì,mudi,goal,2,Class
+108,9,目前,mùqián,muqian,currently,2,Class
+109,9,长大,zhǎng dà,zhang da,to grow up,2,Class
+110,9,情同手足,qíngtóngshǒuzú,qingtongshouzu,brotherhood,4,class
+111,9,睡眠,shuìmián,shuimian,sleep,2,Class
+112,9,健康,jiànkāng,jiankang,healthy,2,Class
+113,9,重组,chóngzǔ,chongzu,reorganization,2,Class
+114,9,着急,zhāojí,zhaoji,in a hurry,2,Class
+115,9,左,zuǒ,zuo,left,1,Class
+116,9,左手,zuǒshǒu,zuoshou,left hand,2,Class
+117,9,左边,zuǒbiān,zuobian,left,2,Class
+118,9,向左拐,xiàng zuǒ guǎi,xiang zuo guai,turn left,3,Class
+119,9,右,yòu,you,right,1,Class
+120,9,右手,yòushǒu,youshou,right hand,2,Class
+121,9,右边,yòubiān,youbian,right,2,Class
+122,9,向右拐,xiàng yòu guǎi,xiang you guai,turn right,3,Class
+123,9,左思右想,zuǒsī yòu xiǎng,zuosi you xiang,think something over,4,class
+124,10,终于,zhōngyú,zhongyu,finally,2,Class
+125,10,办法,bànfǎ,banfa,solution,2,Class
+126,10,邀请,yāoqǐng,yaoqing,invite,2,Class
+127,10,真是,zhēnshi,zhenshi,really,2,Class
+128,10,聚会,jùhuì,juhui,party,2,Class
+129,10,认真,rènzhēn,renzhen,seriously,2,Class
+130,10,前,qián,qian,forward,1,Class
+131,10,前面,qiánmiàn,qianmian,front face,2,Class
+132,10,前方,qiánfāng,qianfang,front,2,Class
+133,10,前天,qián tiān,qian tian,the day before yesterday,2,Class
+134,10,后,hòu,hou,backward,1,Class
+135,10,后面,hòumiàn,houmian,back face,2,Class
+136,10,后方,hòufāng,houfang,back,2,Class
+137,10,后天,hòutiān,houtian,the day after tomorrow,2,Class
+138,11,日,rì,ri,sun / day,1,Class
+139,11,太阳,tàiyáng,taiyang,sun,2,Class
+140,11,日出,rì chū,ri chu,sunrise,2,Class
+141,11,日落,rìluò,riluo,sunset,2,Class
+142,11,日光,rìguāng,riguang,sunlight,2,Class
+143,11,每日,měi rì,mei ri,every day,2,Class
+144,11,冬日,dōngrì,dongri,winter days,2,Class
+145,11,夏日,xià rì,xia ri,summer days,2,Class
+146,11,往日,wǎngrì,wangri,past days,2,Class
+147,11,月亮,yuèliàng,yueliang,moon,2,Class
+148,11,圆月,yuán yuè,yuan yue,full moon,2,Class
+149,11,月牙,yuèyá,yueya,crescent moon,2,Class
+150,11,月光,yuèguāng,yueguang,moonlight,2,Class
+151,11,一个月,yīgè yuè,yige yue,one month,3,Class
+152,11,五月,wǔ yuè,wu yue,May,2,Class
+153,11,花好月圆,huāhǎoyuèyuán,huahaoyueyuan,"flower in bloom, moon full",4,class
+154,11,日积月累,rìjīyuèlěi,rijiyuelei,consistent changes over time,4,class
+155,11,赏月,shǎng yuè,shang yue,admiring the moon,2,Class
+156,11,当今,dāngjīn,dangjin,today (alternate),2,Class
+157,11,科技水平,kējì shuǐpíng,keji shuiping,technology level,4,Class
+158,11,发展,fāzhǎn,fazhan,develop,2,Class
+159,11,时代,shídài,shidai,time period,2,Class
+160,11,团聚,tuánjù,tuanju,reunion,2,Class
+161,12,出色,chūsè,chuse,outstanding,2,Class
+162,12,积极,jījí,jiji,positive,2,Class
+163,12,帅气,shuàiqì,shuaiqi,handsome,2,Class
+164,12,负责,fùzé,fuze,responsible,2,Class
+165,12,环保,huánbǎo,huanbao,environmental friendly,2,Class
+166,12,贡献,gòngxiàn,gongxian,contribute,2,Class
+167,12,善良,shànliáng,shanliang,kind,2,Class
+168,12,诚信,chéngxìn,chengxin,honesty,2,Class
+169,12,不论,bùlùn,bulun,whether,2,Class
+170,12,丈夫,zhàngfū,zhangfu,husband,2,Class
+171,12,丰富多彩,fēngfù duōcǎi,fengfu duocai,colorful life,4,Class
+172,12,总而言之,zǒngéryánzhī,zongeryanzhi,all in all,4,Class
+173,12,积累,jīlěi,jilei,accumulate,2,Class
+174,13,水,shuǐ,shui,water,1,Class
+175,13,开水,kāishuǐ,kaishui,boiling water,2,Class
+176,13,冷水,lěngshuǐ,lengshui,cold water,2,Class
+177,13,害处,hàichu,haichu,harm,2,Class
+178,13,清水,qīngshuǐ,qingshui,clear water,2,Class
+179,13,脏水,zàng shuǐ,zang shui,dirty water,2,Class
+180,13,水龙头,shuǐlóngtóu,shuilongtou,faucet,3,Class
+181,13,浇水,jiāo shuǐ,jiao shui,water plants/flowers,2,Class
+182,13,海水,hǎishuǐ,haishui,sea water,2,Class
+183,13,水果,shuǐguǒ,shuiguo,fruit,2,Class
+184,13,香水,xiāngshuǐ,xiangshui,perfume,2,Class
+185,13,落花流水,luòhuāliúshuǐ,luohualiushui,to be badly beaten,4,Class
+186,13,或,huò,huo,fire,1,Class
+187,13,火光,huǒguāng,huoguang,fire light,2,Class
+188,13,火山,huǒshān,huoshan,volcano,2,Class
+189,13,火车,huǒchē,huoche,train,2,Class
+190,13,火锅,huǒguō,huoguo,hot pot,2,Class
+191,13,火山加油,huǒshān jiāyóu,huoshan jiayou,"add fuel to the fire, make worse",4,Class
+192,13,火冒三丈,huǒmàosānzhàng,huoomaosanzhang,raging / upset,4,Class
+193,14,山,shān,shan,mountain,1,Class
+194,14,雪山,xuěshān,xueshan,snowy mountain,2,Class
+195,14,山谷,shāngǔ,shangu,valley,2,Class
+196,14,山洞,shāndòng,shandong,cave,2,Class
+197,14,爬山,páshān,pashan,hiking,2,Class
+198,14,山清水秀,shānqīngshuǐxiù,shanqingshuixiu,"a beautiful, serene place",4,Class
+199,14,石,shí,shi,stone,1,Class
+200,14,石头,shítou,shitou,stone,2,Class
+201,14,石油,shíyóu,shiyou,oil,2,Class
+202,14,钻石,zuànshí,zuanshi,diamond,2,Class
+203,14,水滴石穿,shuǐdīshíchuān,shuidishichuan,persistence / consistency,4,Class
+204,15,田,tián,tian,field,1,Class
+205,15,田地,tiándì,tiandi,field,2,Class
+206,15,种田,zhòngtián,zhongtian,plant in a field,2,Class
+207,15,沧海桑田,cānghǎisāngtián,canghaisangtian,everything developing/changing,4,Class
+208,15,禾,hé,he,seed,1,Class
+209,15,禾苗,hémiáo,hemiao,seedlings,2,Class
+210,15,和田,hétián,hetian,field with seedlings,2,Class
+211,15,锄禾,chú hé,chu he,weed seedlings,2,Class
+212,16,站,zhàn,Zhan,stand / station,1,Class
+213,16,站起来,zhàn qǐlái,zhan qilai,stand up,3,Class
+214,16,站立,zhànlì,zhanli,standing / tremble,2,Class
+215,16,站长,zhàn zhǎng,zhan zhang,officer (head of a station),2,Class
+216,16,站不住脚,zhàn bù zhù jiǎo,zhan bu zhu jiao,no legs to stand on (no evidence),4,Class
+217,16,占,zhàn,zhan,own,1,Class
+218,16,占有,zhànyǒu,zhanyou,possess (to have),2,Class
+219,16,占用,zhànyòng,zhanyong,occupy,2,Class
+220,16,战线,zhànxiàn,zhanxian,phone is busy,2,Class
+221,16,占为己有,zhàn wéi jǐ yǒu,zhan wei ji you,selfishly take something,4,Class
+222,16,战,zhàn,zhan,fight / tremble,1,Class
+223,16,战斗,zhàndòu,zhandou,have a battle,2,Class
+224,16,战争,zhànzhēng,zhanzheng,war,2,Class
+225,16,挑战,tiǎozhàn,tiaozhan,to challenge,2,Class
+226,16,战友,zhànyǒu,zhanyou,comrade in arms,2,Class
+227,16,百战百胜,bǎi zhàn bǎishèng,bai zhan baisheng,victorious in battle,4,Class
+228,16,胆战心惊,dǎnzhànxīnjīng,danzhanxinjing,tremble with fear,4,Class
+229,17,坐,zuò,zuo,to sit,1,Class
+230,17,坐下,zuò xià,zuo xia,to sit down,2,Class
+231,17,坐地铁,zuò dìtiě,zuo ditie,take the subway,3,Class
+232,17,坐牢,zuòláo,zuolao,to go to/be in prison,2,Class
+233,17,坐享其成,zuòxiǎngqíchéng,zuoxiangqicheng,enjoy the fruits of someone else,4,Class
+234,17,座,zuò,zuo,seat,1,Class
+235,17,座位,zuòwèi,zuowei,seat,2,Class
+236,17,星座,xīngzuò,xingzuo,constellation,2,Class
+237,17,讲座,jiǎngzuò,jiangzuo,lecture,2,Class
+238,17,座位号,zuòwèi hào,zuowei hao,seat number,3,Class
+239,17,座无虚席,zuòwúxūxí,zuowuxuxi,all seats are occupied,4,Class
+240,18,做,zuò,zuo,to do / make,1,Class
+241,18,做事,zuòshì,zuoshi,do things,2,Class
+242,18,做人,zuòrén,zuoren,be a person,2,Class
+243,18,做客,zuòkè,zuoke,be a guest,2,Class
+244,18,做梦,zuòmèng,zuomeng,dream,2,Class
+245,18,做家务,zuòjiāwù,zuojiawu,do homework,3,Class
+246,18,作,zuò,zuo,do,1,Class
+247,18,作家,zuò jiā,zuo jia,writer / author,2,Class
+248,18,作品,zuòpǐn,zuopin,artistic works,2,Class
+249,18,作业,zuòyè,zuoye,homework,2,Class
+250,18,做作业,zuò zuo yè,zuo zuo ye,do homework,3,Class
+251,18,当作,dàng zuò,dang zuo,to treat someone as…,2,Class
+252,18,好吃懒做,hàochīlǎnzuò,haochilanzuo,lazy person only likes to eat,4,Class
+253,18,自作自受,zìzuòzìshòu,zizuozishou,suffer from your own actions,4,Class
+254,19,来,lái,lai,come,1,Class
+255,19,上来,shànglái,shanglai,come up,2,Class
+256,19,就上来,jiù shànglái,jiu shanglai,to save someone who fell,3,Class
+257,19,下来,xiàlái,xialai,come down,2,Class
+258,19,留下来,liú xiàlái,liu xialai,stay behind,3,Class
+259,19,坐下来,zuò xiàlái,zuo xialai,sit down and rest,3,Class
+260,19,掉下来,diào xiàlái,diao xialai,fall down,3,Class
+261,19,进来,jìnlái,jinlai,come in,2,Class
+262,19,回来,huílái,huilai,come back,2,Class
+263,19,回答,huídá,huida,answer,2,Class
+264,19,收回,shōuhuí,shouhui,take back,2,Class
+265,19,古往今来,gǔwǎngjīnlái,guwangjinlai,through the ages,4,Class
+266,19,百折不回,bǎi zhé bù huí,bai zhe bu hui,someone who never gives up,4,Class
+267,20,去,qù,qu,go,1,Class
+268,20,回去,huíqù,huiqu,go back,2,Class
+269,20,进去,jìnqù,jinqu,go in,2,Class
+270,20,出去,chūqù,chuqu,go out,2,Class
+271,20,去年,qùnián,qunian,last year,2,Class
+272,20,去世,qùshì,qushi,pass away,2,Class
+273,20,不知去向,bùzhī qù xiàng,buzhi qu xiang,nowhere to be found,4,Class
+274,20,往,wǎng,wang,towards,1,Class
+275,20,前往,qiánwǎng,qianwang,leave for,2,Class
+276,20,去往,qù wǎng,qu wang,leave for,2,Class
+277,20,向往,xiàngwǎng,xiangwang,yearn for,2,Class
+278,20,交往,jiāowǎng,jiaowang,contact someone,2,Class
+279,20,往常,wǎngcháng,wangchang,as usual,2,Class
+280,20,人来人往,rén lái rén wǎng,ren lai ren wang,crowd of people coming / going,4,Class
+281,20,人山人海,rénshānrénhǎi,renshanrenhai,crowd of people coming / going,4,Class
+282,21,过,guò,guo,cross / pass / spend / live,1,Class
+283,21,过河,guò hé,guo he,cross a river,2,Class
+284,21,过马路,guò mǎ lù,guo ma lu,cross the street,3,Class
+285,21,过春节,guò chūnjié,guo chunjie,spend spring festival,3,Class
+286,21,过日子,guòrìzi,guorizi,spend a life,3,Class
+287,21,过时,guòshí,guoshi,out of style,2,Class
+288,21,过去,guòqù,guoqu,in the past,2,Class
+289,21,雨过天晴,yǔguò tiān qíng,yuguo tian qing,sun shining after rain,4,Class
+290,21,经,jīng,jing,(many meanings),1,Class
+291,21,经理,jīnglǐ,jingli,experience / live through,2,Class
+292,21,经营,jīngyíng,jingying,manage / run,2,Class
+293,21,经常,jīngcháng,jingchang,often,2,Class
+294,21,漫不经心,mànbùjīngxīn,manbujingxin,not careful / too unserious,4,Class
+295,22,穿,chuān,chuan,wear,1,Class
+296,22,穿过,chuānguò,chuanguo,pass through,2,Class
+297,22,看穿,kànchuān,kanchuan,see through someone,2,Class
+298,22,穿着,chuānzhe,chuanzhe,wearing something,2,Class
+299,22,穿上,chuān shàng,chuan shang,actively put on something,2,Class
+300,22,通,tōng,tong,pass,1,Class
+301,22,通过,tōngguò,tongguo,pass (a test/exam) / by means of,2,Class
+302,22,交通,jiāotōng,jiaotong,traffic / transportation,2,Class
+303,22,普通,pǔtōng,putong,common,2,Class
+304,22,通情达理,tōngqíngdálǐ,tongqingdali,understanding / responsible,4,Class
+305,23,知,zhī,zhi,to know,1,Class
+306,23,通知,tōngzhī,tongzhi,inform / notice,2,Class
+307,23,知足,zhīzú,zhizu,be content with,2,Class
+308,23,相知,xiāngzhī,xiangzhi,know each other,2,Class
+309,23,知己,zhījǐ,zhiji,person who knows you well,2,Class
+310,23,知识,zhīshì,zhishi,knowledge,2,Class
+311,23,不知所措,bùzhī suǒ cuò,buzhi suo cuo,at a loss,4,Class
+312,23,道,dào,dao,to know,1,Class
+313,23,知道,zhīdào,zhidao,to know,2,Class
+314,23,道路,dàolù,daolu,road,2,Class
+315,23,道理,dàolǐ,daoli,principle / truth,2,Class
+316,23,报道,bàodào,baodao,report (N. or V.),2,Class
+317,23,到来,dàolái,daolai,arrival,2,Class
+318,23,志同道合,zhìtóngdàohé,zhitongdaohe,person with same goals as you,4,Class
+319,24,到,dào,dao,arrive,1,Class
+320,24,迟到,chídào,chidao,be late,2,Class
+321,24,见到,jiàn dào,jian dao,meet,2,Class
+323,24,到处,dàochù,daochu,everywhere / here and there,2,Class
+324,24,直到,zhídào,zhidao,until,2,Class
+325,24,马到成功,mǎdàochénggōng,madaochenggong,success upon arrival,4,Class
+326,24,达,dá,da,arrive,1,Class
+327,24,到达,dào dá,dao da,arrive,2,Class
+328,24,抵达,dǐdá,dida,arrive (formal),2,Class
+329,24,表达,biǎodá,biaoda,deliver / express,2,Class
+330,24,传达,chuándá,chuanda,convey,2,Class
+331,24,发达,fādá,fada,developed (country),2,Class
+332,24,四通八达,sìtōngbādá,sitongbada,very convenient transport,4,Class
+333,25,嘴,zuǐ,zui,mouth,1,Class
+334,25,嘴巴,zuǐbā,zuiba,mouth,2,Class
+335,25,嘴角,zuǐjiǎo,zuijiao,corner of the mouth,2,Class
+336,25,插嘴,chāzuǐ,chazui,cut in / interrupt someone,2,Class
+337,25,有嘴无心,yǒu zuǐ wúxīn,you zui wuxin,do not say what you truly mean,4,Class
+338,25,舌,shé,she,tongue,1,Class
+339,25,舌头,shétou,shetou,tongue,2,Class
+340,25,学社,xué shè,xue she,repeat others,2,Class
+341,25,七嘴八舌,qī zuǐ bā shé,qi zui ba she,many people talking at once,4,Class
+342,25,口舌,kǒushé,koushe,tongue,2,Class
+343,26,蜗牛,wōniú,woniu,snail,2,Homework
+344,26,树林,shùlín,shulin,forest,2,Homework
+345,26,旁边,pángbiān,pangbian,side / beside,2,Homework
+346,26,发芽,fāyá,faya,growing / sprouting,2,Homework
+347,26,长满了,zhǎng mǎnle,zhang manle,full of something,3,Homework
+348,26,叶子,yèzi,yezi,leaf,2,Homework
+349,26,碧绿,bìlǜ,bilu,green,2,Homework
+350,26,许多,xǔduō,xuduo,some / a few,2,Homework
+351,26,草莓,cǎoméi,caomei,strawberry,2,Homework
+352,26,地上,dìshàng,dishang,on the ground,2,Homework
+353,26,已经,yǐjīng,yijing,already,2,Homework
+354,26,摘,zhāi,zhai,to pick,1,Homework
+355,26,好久,hǎojiǔ,haojiu,a long time,2,Homework
+356,27,唇,chún,chun,lip,1,Class
+357,27,嘴唇,zuǐchún,zuichun,lip,2,Class
+358,27,唇膏,chúngāo,chungao,chap stick,2,Class
+359,27,反唇相讥,fǎnchúnxiāngjī,fanchunxiangji,back talk / sarcasm,4,Class
+360,27,牙,yá,ya,tooth / teeth (single char),1,Class
+361,27,牙齿,yáchǐ,yachi,tooth / teeth (word),2,Class
+362,27,牙膏,yágāo,yagao,tooth paste,2,Class
+363,27,假牙,jiǎyá,jiaya,artificial teeth,2,Class
+364,27,牙疼,yá téng,ya teng,toothache,2,Class
+365,27,牙医,yáyī,yayi,dentist,2,Class
+366,27,伶牙俐齿,língyálìchǐ,lingyalichi,gift of the gab,4,Class
+367,27,端午节,duānwǔ jié,duanwu jie,Dragonboat festival,3,Homework
+368,27,外婆,wàipó,waipo,grandmother,2,Homework
+369,27,粽子,zòngzi,zongzi,sticky dumplings,2,Homework
+370,27,盼着,pànzhe,panzhe,look forward to,2,Homework
+371,27,糯米,nuòmǐ,nuomi,sticky rice,2,Homework
+372,27,中间,zhōngjiān,zhongjian,middle / center,2,Homework
+373,27,枣,zǎo,zao,jujube date,1,Homework
+374,27,飘出,piāo chū,piao chu,float out,2,Homework
+375,27,剥开,bō kāi,bo kai,peel off,2,Homework
+376,27,一口,yīkǒu,yikou,a bite,2,Homework
+377,27,黏,nián,nian,sticky,1,Homework
+378,27,甜,tián,tian,sweet,1,Homework
+379,27,鲜肉,xiān ròu,xian rou,fresh meat,2,Homework
+380,27,装,zhuāng,zhuang,pack,1,Homework
+381,27,邻居,línjū,linju,neighbor,2,Homework
+382,27,为了,wèile,weile,for,2,Homework
+383,27,诗人,shīrén,shiren,poet,2,Homework
+384,27,纪念,jìniàn,jinian,commemorate,2,Homework
+385,28,喉咙,hóulóng,houlong,throat,2,Class
+386,28,咽喉,yānhóu,yanhou,throat,2,Class
+387,28,嗓子,sǎngzi,sangzi,throat / voice,2,Class
+388,28,咽喉炎,yānhóu yán,yanhou yan,sore throat,3,Class
+389,28,嗓音,sǎngyīn,sangyin,singing voice,2,Class
+390,28,狐狸,húlí,huli,fox,2,Homework
+391,28,乌鸦,wūyā,wuya,crow,2,Homework
+392,28,正站,zhèng zhàn,zheng zhan,standing,2,Homework
+393,28,树枝,shùzhī,shuzhi,tree branch,2,Homework
+394,28,一片,yīpiàn,yipian,a slice / a piece,2,Homework
+395,28,摇摇,yáo yáo,yao yao,shake / wag,2,Homework
+396,28,尾巴,wěibā,weiba,tail,2,Homework
+397,28,羽毛,yǔmáo,yumao,feather,2,Homework
+398,28,漂亮,piàoliang,piaoliang,pretty,2,Homework
+399,28,麻雀,máquè,maque,sparrow,2,Homework
+400,28,几句,jǐ jù,ji ju,a few words,2,Homework
+401,28,一溜烟跑掉了,yīliūyān pǎo diàole,yiliuyan pao diaole,ran away in a flash,6,Homework
+402,28,叼起,diāo qǐ,diao qi,pick up,2,Homework
+403,29,伸,shēn,shen,stretched,1,Class
+404,29,低,dī,di,low,1,Class
+405,29,翅膀,chìbǎng,chibang,wings,2,Class
+406,29,小水珠,xiǎo shuǐ zhū,xiao shui zhu,small drops of water,3,Class
+407,29,消息,xiāoxī,xiaoxi,information / news,2,Class
+408,29,闷,mèn,men,stuffy,1,Class
+409,29,淋着,línzhe,linzhe,dripping,2,Class
+410,29,腔,qiāng,qiang,inside of the mouth,1,Class
+411,29,口腔溃疡,kǒuqiāng kuìyáng,kouqiang kuiyang,mouth ulcers,4,Class
+412,29,腔调,qiāngdiào,qiangdiao,accent,2,Class
+413,29,装腔作势,zhuāngqiāngzuòshì,zhuangqiangzuoshi,put on an act,4,Class
+414,29,弯着腰,wānzhe yāo,wanzhe yao,bend over,3,Homework
+415,29,直起身子,zhíqǐ shēnzi,zhiqi shenzi,straighten up,4,Homework
+416,29,伸腰,shēnyāo,shenyao,stretch your waist,2,Homework
+417,29,空气,kōngqì,kongqi,air,2,Homework
+418,29,潮湿,cháoshī,chaoshi,moist,2,Homework
+419,29,虫子,chóngzi,chongzi,insect,2,Homework
+420,29,池子,chízi,chizi,pond,2,Homework
+421,29,透透气,tòu tòuqì,tou touqi,get some air,3,Homework
+422,29,连忙,liánmáng,lianmang,quickly / in a hurry,2,Homework
+423,29,挎起,kuà qǐ,kua qi,pick up,2,Homework
+424,29,蚂蚁,mǎyǐ,mayi,ant,2,Homework
+425,29,告诉,gàosù,gaosu,tell,2,Homework
+426,29,一阵雷声,yīzhèn léi shēng,yizhen lei sheng,a burst of thunder,4,Homework
+427,30,吃,chī,chi,to eat (single char),1,Class
+428,30,吃醋,chīcù,chicu,to be bitter / jealous,2,Class
+429,30,吃苦,chīkǔ,chiku,to suffer / have a rough time,2,Class
+430,30,大吃一惊,dàchīyījīng,dachiyijing,to feel shocked,4,Class
+431,30,喝,hē,he,to drink,1,Class
+432,30,喝茶,hē chá,he cha,drink tea,2,Class
+433,30,喝咖啡,hē kāfēi,he kafei,drink coffee,3,Class
+434,30,喝酒,hējiǔ,hejiu,drink alcohol,2,Class
+435,30,吃喝玩乐,chīhē wánlè,chihe wanle,eat / drink / be merry,4,Class
+436,30,喝彩,hècǎi,hecai,cheer for someone,2,Class
+437,30,大声喝道,dàshēng hèdào,dasheng hedao,shout loudly,4,class
+438,30,吆五喝六,yāowǔhèliù,yaowuheliu,shout orders,4,class
+439,30,戴,dài,dai,to wear (an accessory),1,Homework
+440,30,早晨,zǎochén,zaochen,morning,2,Homework
+441,30,不久,bùjiǔ,bujiu,soon,2,Homework
+442,30,静悄悄的,jìng qiāoqiāo de,jing qiaoqiao de,quietly,4,Homework
+443,30,惊醒,jīngxǐng,jingxing,wake up with a start,2,Homework
+444,30,睁开,zhēng kāi,zheng kai,open,2,Homework
+445,30,不小心,bù xiǎoxīn,bu xiaoxin,careless,3,Homework
+446,30,让,ràng,rang,let,1,Homework
+447,30,感激,gǎnjī,ganji,gratitude,2,Homework
+448,30,连声,liánshēng,liansheng,continuously,2,Homework
+449,30,蜻蜓,qīngtíng,qingting,dragonfly,2,Homework
+450,30,照亮,zhào liàng,zhao liang,illuminate,2,Homework
+451,30,灯笼,dēnglóng,denglong,lantern,2,Homework
+452,30,草坪,cǎopíng,caoping,lawn,2,Homework
+453,31,唱,chàng,chang,to sing,1,Class
+454,31,唱歌,chànggē,changge,to sing,2,Class
+455,31,歌唱家,gēchàng jiā,gechang jia,professional singer,3,Class
+456,31,演唱会,yǎnchàng huì,yanchang hui,concert,3,Class
+457,31,一唱一和,yīchàngyīhè,yichangyihe,echo each other,4,Class
+458,31,喊,hǎn,han,to shout,1,Class
+459,31,呼喊,hūhǎn,huhan,to shout,2,Class
+460,31,喊叫,hǎnjiào,hanjiao,yelling loudly,2,Class
+461,31,贼喊捉贼,zéihǎnzhuōzéi,zeihanzhuozei,"a thief shouting: ""stop thief""",4,Class
+462,31,铅笔,qiānbǐ,qianbi,pencil,2,Homework
+463,31,一次,yīcì,yici,once,2,Homework
+464,31,橡皮,xiàngpí,xiangpi,eraser,2,Homework
+465,31,擦,cā,ca,wipe,1,Homework
+466,31,丢,diū,diu,leave,1,Homework
+467,31,平安,píngān,pingan,safety,2,Homework
+468,31,转笔刀,zhuǎn bǐ dāo,zhuan bi dao,pencil sharpener,3,Homework
+469,31,文具,wénjù,wenju,stationery,2,Homework
+470,31,从此,cóngcǐ,congci,from then on,2,Homework
+471,31,检查,jiǎnchá,jiancha,examine,2,Homework
+472,31,疗效,liáoxiào,liaoxiao,curative effect,2,Homework
+473,31,装腔,zhuāng qiāng,zhuang qiang,pretentious,2,Homework
+474,31,真相,zhēnxiàng,zhenxiang,the truth,2,Homework
+475,31,讲演,jiǎngyǎn,jiangyan,lecture / speech,2,Homework
+476,31,讨厌,tǎoyàn,taoyan,hate / annoyance,2,Homework
+477,31,判断,pànduàn,panduan,judge,2,Homework
+478,32,说,shuō,shuo,to speak / say,1,Class
+479,32,说话,shuōhuà,shuohua,to speak / say,2,Class
+480,32,说明,shuōmíng,shuoming,explain,2,Class
+481,32,说笑,shuōxiào,shuoxiao,laugh / chat,2,Class
+482,32,小说,xiǎoshuō,xiaoshuo,novel (noun),2,Class
+483,32,乱说,luàn shuō,luan shuo,gossip / speak carelessly,2,Class
+484,32,说服,shuōfú,shuofu,persuade,2,Class
+485,32,实话实说,shíhuà shíshuō,shihua shishuo,to speak the truth / frankly,4,Class
+486,32,谈,tán,tan,talk,1,Class
+487,32,谈话,tánhuà,tanhua,have a talk with someone,2,Class
+488,32,交谈,jiāotán,jiaotan,chat casually,2,Class
+489,32,谈论,tánlùn,tanlun,discuss something,2,Class
+490,32,言谈举止,yántán jǔzhǐ,yantan juzhi,manners,4,Class
+491,32,闹钟,nàozhōng,naozhong,alarm clock,2,Homework
+492,32,哈欠,hāqian,haqian,yawn,2,Homework
+493,32,翻身,fānshēn,fanshen,turn over,2,Homework
+494,32,心想,xīn xiǎng,xin xiang,thinking,2,Homework
+495,32,洗脸,xǐliǎn,xilian,to wash your face,2,Homework
+496,32,十字路口,shízìlù kǒu,shizilu kou,crossroads / intersection,4,Homework
+497,32,叹,tàn,tan,sigh,1,Homework
+498,32,叹口气,tàn kǒuqì,tan kouqi,sigh,3,Homework
+499,32,影子,yǐngzi,yingzi,shadow,2,Homework
+500,32,后悔,hòuhuǐ,houhui,regret,2,Homework
+501,33,笑,xiào,xiao,laugh,1,Class
+502,33,笑声,xiào shēng,xiao sheng,laughter,2,Class
+503,33,笑脸,xiàoliǎn,xiaolian,a smiling face,2,Class
+504,33,笑话,xiàohuà,xiaohua,tell a joke,2,Class
+505,33,微笑,wéixiào,weixiao,smile,2,Class
+506,33,玩笑,wánxiào,wanxiao,make fun of / play a joke,2,Class
+507,33,嘲笑,cháoxiào,chaoxiao,laugh at,2,Class
+508,33,谈笑风生,tánxiàofēngshēng,tanxiaofengsheng,people talking happily,4,Class
+509,33,哭,kū,ku,cry,1,Class
+510,33,哭声,kū shēng,ku sheng,cry / weep,2,Class
+511,33,哭泣,kūqì,kuqi,weep,2,Class
+512,33,哭鼻子,kū bízi,ku bizi,weep,3,Class
+513,33,痛哭流涕,tòngkū liú tì,tongku liu ti,crying uncontrollably,4,Class
+514,33,动物,dòngwù,dongwu,animal,2,Homework
+515,33,王国,wángguó,wangguo,kingdom,2,Homework
+516,33,老虎,lǎohǔ,laohu,tiger,2,Homework
+517,33,狗熊,gǒuxióng,gouxiong,bear,2,Homework
+518,33,注意,zhùyì,zhuyi,pay attention,2,Homework
+519,33,参加,cānjiā,canjia,join,2,Homework
+520,33,因为,yīnwèi,yinwei,because,2,Homework
+521,33,鬼脸,guǐliǎn,guilian,grimace,2,Homework
+522,33,组织,zǔzhī,zuzhi,organize,2,Homework
+523,33,精彩,jīngcǎi,jingcai,wonderful,2,Homework
+524,33,配合,pèihé,peihe,cooperate,2,Homework
+525,33,默契,mòqì,moqi,agreement,2,Homework
+526,33,法官,fǎguān,faguan,Judge,2,Homework
+527,33,无辜,wúgū,wugu,innocent,2,Homework
+528,33,偷,tōu,tou,steal,1,Homework
+529,34,头,Tóu,tou,head,1,Class
+530,34,头发,tóufǎ,toufa,hair,2,Class
+531,34,点头,diǎntóu,diantou,nod,2,Class
+532,34,回头,huítóu,huitou,turn around,2,Class
+533,34,头脑,tóunǎo,tounao,brain / mind,2,Class
+534,34,枕头,zhěntou,zhentou,pillow,2,Class
+535,34,木头,mùtou,mutou,timber  / wood,2,Class
+536,34,带头,dàitóu,daitou,lead / first person to do something,2,Class
+537,34,头头是道,tóutóushìdào,toutoushidao,clear and logical,4,Class
+538,34,一头猪,yītóu zhū,yitou zhu,a pig,3,Class
+539,34,领头,lǐngtóu,lingtou,take the lead,2,Class
+540,34,脸,liǎn,lian,face,1,Class
+541,34,脸颊,liǎnjiá,lianjia,jaw,2,Class
+542,34,丢脸,diūliǎn,diulian,lose face,2,Class
+543,34,做鬼脸,zuò guǐliǎn,zuo guilian,make faces,3,Class
+544,34,脸红,liǎnhóng,lianhong,blush,2,Class
+545,34,嬉皮笑脸,xīpíxiàoliǎn,xipixiaolian,grinning cheekily,4,Class
+546,34,猴子,hóuzi,houzi,monkey,2,Homework
+547,34,地里,dì li,di li,field,2,Homework
+548,34,捧,pěng,peng,to hold,1,Homework
+549,34,扔了,rēngle,rengle,threw,2,Homework
+550,34,安排,ānpái,anpai,to arrange,2,Homework
+551,34,如果,rúguǒ,ruguo,if,2,Homework
+552,34,网上,wǎngshàng,wangshang,online,2,Homework
+553,34,掰,bāi,bai,to break,1,Homework
+554,35,骑马,qímǎ,qima,ride a horse,2,Homework
+555,35,妖婆,yāopó,yaopo,witch,2,Homework
+556,35,糊涂,hútú,hutu,confused,2,Homework
+557,35,发出,fāchū,fachu,send out,2,Homework
+558,35,愉快,yúkuài,yukuai,joy / joyous,2,Homework
+559,35,应该,yīnggāi,yinggai,should,2,Homework
+560,35,残疾,cánjí,canji,disability,2,Homework
+561,35,身体,shēntǐ,shenti,body,2,Homework
+562,35,互相,hùxiāng,huxiang,each other,2,Homework
+563,35,开心,kāixīn,kaixin,happy,2,Homework
+564,35,上个,shàng gè,shang ge,previous,2,Homework
+565,35,下个,xià gè,xia ge,next,2,Homework
+566,35,一边,yībiān,yibian,aside,2,Homework
+567,35,失去了,shīqùle,shiqule,lost,3,Homework
+568,36,眉,méi,mei,eyebrow,1,Class
+569,36,眉毛,méimáo,meimao,eyebrow,2,Class
+570,36,眉目,méimù,meimu,eyes/eyebrow/a solution,2,Class
+571,36,皱眉头,zhòuméi tóu,zhoumei tou,frown,3,Class
+572,36,眼,yǎn,yan,eyes,1,Class
+573,36,眼睛,yǎnjīng,yanjing,eyes,2,Class
+574,36,眼光,yǎnguāng,yanguang,"bright yes, can see clearly",2,Class
+575,36,眼泪,yǎnlèi,yanlei,cry / tears,2,Class
+576,36,闭眼,bì yǎn,bi yan,close your eyes,2,Class
+577,36,睁眼,zhēng yǎn,zheng yan,open your eyes,2,Class
+578,36,眨眼,zhǎyǎn,zhayan,blink,2,Class
+579,36,棉花,miánhuā,mianhua,cotton,2,Homework
+580,36,姑娘,gūniáng,guniang,girl,2,Homework
+581,36,生病,shēngbìng,shengbing,become ill,2,Homework
+582,36,盼望,pànwàng,panwang,hope,2,Homework
+583,36,治病,zhì bìng,zhi bing,cure sickness,2,Homework
+584,36,捉害,zhuō hài,zhuo hai,to catch,2,Homework
+585,36,帮忙,bāngmáng,bangmang,help,2,Homework
+586,36,啄木鸟,zhuómùniǎo,zhuomuniao,woodpecker,3,Homework
+587,36,树干,shùgàn,shugan,tree trunk,2,Homework
+588,36,青蛙,qīngwā,qingwa,frog,2,Homework
+589,36,高兴,gāoxìng,gaoxing,happy,2,Homework
+590,36,害虫,hàichóng,haichong,pests,2,Homework
+591,36,忽然,hūrán,huran,suddenly,2,Homework
+592,36,一群,yīqún,yiqun,measure word for groups,2,Homework
+593,36,蚜虫,yáchóng,yachong,aphid,2,Homework
+594,36,吃光,chī guāng,chi guang,eat up,2,Homework
+595,36,惊奇,jīngqí,jingqi,surprise,2,Homework
+596,36,斑点,bāndiǎn,bandian,spot,2,Homework
+597,36,瓢虫,piáo chóng,piao chong,ladybug,2,Homework
+598,36,咧开嘴笑,liě kāi zuǐ xiào,lie kai zui xiao,a big smile (literary),4,Homework
+599,36,无论,wúlùn,wulun,regardless / no matter what,2,Homework
+600,36,事情,shìqíng,shiqing,matter,2,Homework
+601,36,保持,bǎochí,baochi,keep / maintain,2,Homework
+602,36,清醒,qīngxǐng,qingxing,clear,2,Homework
+603,36,活动,huódòng,huodong,activity,2,Homework
+604,36,失败,shībài,shibai,failure,2,Homework
+605,36,尝试,chángshì,changshi,to try,2,Homework
+606,36,永远,yǒngyuǎn,yongyuan,forever,2,Homework
+607,36,机会,jīhuì,jihui,opportunity,2,Homework
+608,36,错误,cuòwù,cuowu,mistake,2,Homework
+609,36,感到,gǎndào,gandao,to feel,2,Homework
+610,36,严肃,yánsù,yansu,serious,2,Homework
+611,37,看,kàn,kan,to see,1,Class
+612,37,看见,kànjiàn,kanjian,to see,2,Class
+613,37,看书,kànshū,kanshu,to read (books),2,Class
+614,37,看到,kàn dào,kan dao,to see / meet / lay eyes upon,2,Class
+615,37,好看,hǎokàn,haokan,good looking / good to watch,2,Class
+616,37,看守,kānshǒu,kanshou,guard / protect,2,Class
+617,37,看官,kàn guān,kan guan,guard / protect,2,Class
+618,37,看剖红尘,kàn pōu hóngchén,kan pou hongchen,see through society,4,Class
+619,37,看家本事,kān jiā běnshì,kan jia benshi,specialty,4,Class
+620,37,见,jiàn,jian,to see,1,Class
+621,37,在见,zàjiàn,zaijian,goodbye,2,Class
+622,37,见面,jiànmiàn,jianmian,face to face,2,Class
+623,37,听见,tīngjiàn,tingjian,to hear something,2,Class
+624,37,眼见为实,yǎnjiàn wéi shí,yanjian wei shi,seeing is believing,4,Class
+625,37,见多识广,jiàn duō shì guǎng,jian duo shi guang,well informed / seen the world,4,Class
+626,37,木瓜,mùguā,mugua,papaya,2,Homework
+627,37,熟了,shúle,shule,ripe / ready to eat,2,Homework
+628,37,湖,hú,hu,lake,1,Homework
+629,37,兔子,tùzǐ,tuzi,rabbit,2,Homework
+630,37,为什么,wèishéme,weisheme,why,3,Homework
+631,37,热闹,rènào,renao,lively / bustling,2,Homework
+632,37,野牛,yěniú,yeniu,bison,2,Homework
+633,37,咕咚,gūdōng,gudong,sound of falling into water,2,Homework
+634,38,听,tīng,ting,to hear / listen to,1,Class
+635,38,听说,tīng shuō,ting shuo,hear about,2,Class
+636,38,听讲,tīngjiǎng,tingjiang,listen to someone,2,Class
+637,38,听众,tīngzhòng,tingzhong,audience,2,Class
+638,38,听话,tīnghuà,tinghua,obedient,2,Class
+639,38,道听途说,dàotīngtúshuō,daotingtushuo,rumors,4,Class
+640,38,想,xiǎng,xiang,think,1,Class
+641,38,想法,xiǎngfǎ,xiangfa,idea/thought,2,Class
+642,38,猜想,cāixiǎng,caixiang,guess,2,Class
+643,38,想象,xiǎngxiàng,xiangxiang,imagine,2,Class
+644,38,思想,sīxiǎng,sixiang,thoughts,2,Class
+645,38,想念,xiǎngniàn,xiangnian,to miss someone,2,Class
+646,38,理想,lǐxiǎng,lixiang,ideals,2,Class
+647,38,胡思乱想,húsīluànxiǎng,husiluanxiang,wild imagination / silly thoughts,4,Class
+648,38,壁虎,bìhǔ,bihu,gecko,2,Homework
+649,38,墙角,qiángjiǎo,qiangjiao,corner,2,Homework
+650,38,捉,zhuō,zhuo,catch,1,Homework
+651,38,蚊子,wénzi,wenzi,mosquito,2,Homework
+652,38,蛇咬,shé yǎo,she yao,snake bite,2,Homework
+653,38,一挣,yī zhēng,yi zheng,one earn,2,Homework
+654,38,挣断,zhēng duàn,zheng duan,break off,2,Homework
+655,38,河边,hé biān,he bian,riverside,2,Homework
+656,38,摇着,yáozhe,yaozhe,shaking,2,Homework
+657,38,游来游去,yóu lái yóu qù,you lai you qu,swim back and forth,4,Homework
+658,38,拨水,bō shuǐ,bo shui,drain water,2,Homework
+659,38,甩着,shuǎizhe,shuaizhe,swing,2,Homework
+660,38,赶蝇子,gǎn yíng zi,gan ying zi,catch flies,3,Homework
+661,38,房檐,fángyán,fangyan,eaves,2,Homework
+662,38,燕子,yànzi,yanzi,swallow (bird),2,Homework
+663,38,方向,fāngxiàng,fangxiang,direction,2,Homework
+664,38,笑着,xiàozhe,xiaozhe,smiling,2,Homework
+665,38,傻,shǎ,sha,stupid,1,Homework
+666,38,转过,zhuǎnguò,zhuanguo,turn around,2,Homework
+667,38,身子,shēnzi,shenzi,the body,2,Homework
+668,38,长出,zhǎng chū,zhang chu,grow out,2,Homework
+669,39,读,dú,dú,read,1,Class
+670,39,读书,dúshū,dúshū,read,2,Class
+671,39,朗读,lǎngdú,lǎngdú,read aloud,2,Class
+672,39,读音,dúyīn,dúyīn,pronunciation,2,Class
+673,39,读者,dúzhě,dúzhě,reader,2,Class
+674,39,百读不厌,bǎi dú bùyàn,bǎi dú bùyàn,worth reading 100 times,4,Class
+675,39,写,xiě,xiě,write,1,Class
+676,39,写字,xiězì,xiězì,to write,2,Class
+677,39,写信,xiě xìn,xiě xìn,write a letter,2,Class
+678,39,听写,tīngxiě,tīngxiě,dictation,2,Class
+679,39,写作,xiězuò,xiězuò,writing,2,Class
+680,39,描写,miáoxiě,miáoxiě,describe,2,Class
+681,39,轻描淡写,qīngmiáodànxiě,qīngmiáodànxiě,understatement / mention lightly,4,Class
+682,39,砍,kǎn,kan,cut,1,Homework
+683,39,森林,sēnlín,senlin,forest,2,Homework
+684,39,长满,zhǎng mǎn,zhang man,grown full of,2,Homework
+685,39,绿油油,lǜyóuyóu,luyouyou,very green,3,Homework
+687,39,结着,jiézhe,jiezhe,grown on,2,Homework
+688,39,果子,guǒzi,guozi,fruit,2,Homework
+689,39,不忍心,bù rěnxīn,bu renxin,could not bear,3,Homework
+690,39,斧头,fǔtóu,futou,axe,2,Homework
+691,39,声音,shēngyīn,shengyin,voice,2,Homework
+692,39,毁了,huǐle,huile,destroyed,2,Homework
+693,39,这棵树,zhè kē shù,zhe ke shu,this tree,3,Homework
+694,39,鲜花,xiānhuā,xianhua,fresh flowers,2,Homework
+695,39,果实,guǒshí,guoshi,fruit,2,Homework
+696,40,池塘,chítáng,chitang,pond,2,Homework
+697,40,群,qún,qun,a group,1,Homework
+698,40,蝌蚪,kēdǒu,kedou,tadpole,2,Homework
+699,40,脑袋,nǎodai,naodai,head,2,Homework
+700,40,快活地,kuàihuó dì,kuaihuo di,happily,3,Homework
+701,40,后腿,hòu tuǐ,hou tui,hind legs,2,Homework
+702,40,乌龟,wūguī,wugui,turtle,2,Homework
+703,40,摆动,bǎidòng,baidong,to swing,2,Homework
+704,40,开会,kāihuì,kaihui,meeting,2,Homework
+705,40,演讲,yǎnjiǎng,yanjiang,speech,2,Homework
+706,40,吸收,xīshōu,xishou,absorb,2,Homework
+707,40,懂事,dǒngshì,dongshi,sensible,2,Homework
+708,40,力量,lìliàng,liliang,strength,2,Homework
+709,40,伟大,wěidà,weida,great,2,Homework
+710,40,动力,dònglì,dongli,power,2,Homework
+711,40,整天,zhěng tiān,zheng tian,all day,2,Homework
+712,40,工作,gōngzuò,gongzuo,to work,2,Homework
+713,40,学习,xuéxí,xuexi,to study,2,Homework
+714,40,一切创造,yīqiè chuàngzào,yiqie chuangzao,all creation,4,Homework
+715,41,拿,ná,na,to take,1,Class
+716,41,拿来,ná lái,na lai,bring,2,Class
+717,41,拿走,ná zǒu,na zou,take away,2,Class
+718,41,拿下来,ná xiàlái,na xialai,take down,3,Class
+719,41,拿起,ná qǐ,na qi,pick up,2,Class
+720,41,加拿大,jiānádà,jianada,Canada,3,Class
+721,41,十拿九稳,shínájiǔwěn,shinajiuwen,very sure of success,4,Class
+722,41,打,dǎ,da,strike / hit,1,Class
+723,41,打人,dǎ rén,da ren,fight physically,2,Class
+724,41,打球,dǎqiú,daqiu,play ball,2,Class
+725,41,打针,dǎzhēn,dazhen,injection / shot,2,Class
+726,41,打印机,dǎyìnjī,dayinji,printer,3,Class
+727,41,打工,dǎgōng,dagong,work part time,2,Class
+728,41,精打细算,jīngdǎxìsuàn,jingdaxisuan,careful calculation,4,Class
+729,41,天空,tiānkōng,tiankong,sky / heavens,2,Homework
+730,41,升到,shēng dào,sheng dao,to ascend to,2,Homework
+731,41,无数,wúshù,wushu,countless,2,Homework
+732,41,飘浮,piāofú,piaofu,floating,2,Homework
+733,41,有时候,yǒu shíhòu,you shihou,sometimes,3,Homework
+734,41,体温,tǐwēn,tiwen,body temperature,2,Homework
+735,41,落下,luòxià,luoxia,to fall,2,Homework
+736,41,冰雹,bīngbáo,bingbao,hail,2,Homework
+737,41,散步,sànbù,sanbu,to walk,2,Homework
+738,41,溪,xī,xi,creek / stream,1,Homework
+739,41,温和,wēnhé,wenhe,mild,2,Homework
+740,41,暴躁,bàozào,baozao,irritable,2,Homework
+741,41,灌溉,guàngài,guangai,irrigation,2,Homework
+742,41,机器,jīqì,jiqi,machine,2,Homework
+743,41,灾害,zāihài,zaihai,disaster,2,Homework
+744,41,想出,xiǎng chū,xiang chu,come up with,2,Homework
+745,41,管住,guǎn zhù,guan zhu,control,2,Homework
+746,41,语言,yǔyán,yuyan,language,2,Homework
+747,41,一本,yī běn,yi ben,measure word for books,2,Homework
+748,41,电话,diànhuà,dianhua,phone,2,Homework
+749,41,相聚,xiāngjù,xiangju,get together,2,Homework
+750,41,祝,zhù,zhu,wish,1,Homework
+751,41,各位,gèwèi,gewei,everyone,2,Homework
+752,41,长辈,zhǎngbèi,zhangbei,respectable elders,2,Homework
+753,41,身体健康,shēntǐ jiànkāng,shenti jiankang,good health,4,Homework
+754,41,吉祥如意,jíxiáng rúyì,jixiang ruyi,may your dreams come true,4,Homework
+755,41,兄弟姐妹,xiōngdì jiěmèi,xiongdi jiemei,brothers and sisters,4,Homework
+756,41,工作顺利,gōngzuò shùnlì,gongzuo shunli,success in work,4,Homework
+757,41,心想事成,xīn xiǎng shì chéng,xin xiang shi cheng,may your wishes come true,4,Homework
+758,42,找,zhǎo,zhao,look for,1,Class
+759,42,寻找,xúnzhǎo,xunzhao,look for,2,Class
+760,42,查找,cházhǎo,chazhao,look up,2,Class
+761,42,找朋友,zhǎo péngyǒu,zhao pengyou,find friends,3,Class
+762,42,找出,zhǎo chū,zhao chu,find out,2,Class
+763,42,没事找事,méishì zhǎoshì,meishi zhaoshi,someone looking for trouble,4,Class
+764,42,把,bǎ,ba,to grasp / seize / hold,1,Class
+765,42,把握,bǎwò,bawo,to hold / grasp an opportunity,2,Class
+766,42,把手,bǎshǒu,bashou,handle,2,Class
+767,42,火把,huǒbǎ,huoba,torch,2,Class
+768,42,一把手,yībǎshǒu,yibashou,person in charge,3,Class
+769,42,二把手,èr bǎshǒu,er bashou,second in charge,3,Class
+770,42,新官上任三把火,xīn guān shàngrèn sān bǎ huǒ,xin guan shangren san ba huo,"When a new leader comes into power, there will be many changes. ",7,Class
+771,42,告别,gàobié,gaobie,bid farewell,2,Homework
+772,42,四海为家,sìhǎi wéi jiā,sihai wei jia,cosmopolitan,4,Homework
+773,42,植物,zhíwù,zhiwu,plant,2,Homework
+774,42,蒲公英,púgōngyīng,pugongying,dandelion,3,Homework
+775,42,降落伞,jiàngluòsǎn,jiangluosan,parachute,3,Homework
+776,42,送给,sòng gěi,song gei,to give,2,Homework
+777,42,铠甲,kǎijiǎ,kaijia,armor,2,Homework
+778,42,皮毛,pímáo,pimao,fur,2,Homework
+779,42,粗心,cūxīn,cuxin,careless,2,Homework
+780,43,狮子大王,shīzi dàwáng,shizi dawang,lion king,4,Homework
+781,43,炎热,yánrè,yanre,hot,2,Homework
+782,43,非洲,fēizhōu,feizhou,Africa,2,Homework
+783,43,不停的,bù tíng de,bu ting de,non-stop,3,Homework
+784,43,河马,hémǎ,hema,hippo,2,Homework
+785,43,南极,nánjí,nanji,Antarctica,2,Homework
+786,43,叫做,jiàozuò,jiaozuo,called,2,Homework
+787,43,立刻,lìkè,like,immediately,2,Homework
+788,43,企鹅,qìé,qie,penguin,2,Homework
+789,43,一封信,yī fēng xìn,yi feng xin,a letter,3,Homework
+790,43,寄,jì,ji,send,1,Homework
+791,43,收到,shōu dào,shou dao,receive,2,Homework
+792,43,冰天雪地,bīngtiānxuědì,bingtianxuedi,land of ice and snow,4,Homework
+793,43,挑了,tiāole,tiaole,picked,2,Homework
+794,43,装在袋子,zhuāng zài dàizi,zhuang zai daizi,packed in bag,4,Homework
+795,43,回去了,huíqùle,huiqule,gone back,3,Homework
+796,43,明明,míngmíng,mingming,obviously,2,Homework
+797,43,糊涂了,hútúle,hutule,confused,3,Homework
+798,45,握,wò,wo,catch / hold,1,Class
+799,45,握住,wò zhù,wo zhu,catch / hold,2,Class
+800,45,有把握,yǒu bǎwò,you bawo,be sure of / be confident,3,Class
+801,45,握手,wòshǒu,woshou,shake hands,2,Class
+802,45,掌握,zhǎngwò,zhangwo,master something,2,Class
+803,45,握拳,wòquán,woquan,clench your fist,2,Class
+804,45,握手言欢,wòshǒu yánhuān,woshou yanhuan,make up after fighting,4,Class
+805,45,大权在握,dàquán zàiwò,daquan zaiwo,have the power in your hands,4,Class
+806,45,抓,zhuā,zhua,catch / hold,1,Class
+807,45,抓住,zhuā zhù,zhua zhu,catch / hold,2,Class
+808,45,抓获,zhuāhuò,zhuahuo,arrest or capture someone,2,Class
+809,45,爪,zhuǎ,zhua,animal paw,1,Class
+810,45,抓耳挠腮,zhuā ěr náo sāi,zhua er nao sai,scratching your head in confusion,4,Class
+811,45,眉毛胡子一把抓,méi mao húzi yībǎ zhuā,mei mao huzi yiba zhua,do things illogically,7,Class
+812,45,蝴蝶,húdié,hudie,butterfly,2,Homework
+813,45,嫩,nèn,nen,tender,1,Homework
+814,45,农事,nóngshì,nongshi,farm work,2,Homework
+815,45,信息,xìnxī,xinxi,information,2,Homework
+816,45,总是,zǒng shì,zong shi,always,2,Homework
+817,45,喜欢,xǐhuān,xihuan,to like,2,Homework
+818,45,机遇,jīyù,jiyu,opportunity,2,Homework
+819,45,提升,tíshēng,tisheng,promotion,2,Homework
+820,45,改动,gǎidòng,gaidong,to change,2,Homework
+821,45,别人,biérén,bieren,other people,2,Homework
+822,46,正月,zhēngyuè,zhengyue,first lunar month,2,Homework
+823,46,冬月,dōng yuè,dong yue,winter moon,2,Homework
+824,46,腊月,làyuè,layue,twelfth lunar month,2,Homework
+825,46,山茶,shānchá,shancha,camellia flower,2,Homework
+826,46,开放,kāifàng,kaifang,open,2,Homework
+827,46,桃花,táohuā,taohua,peach blossom,2,Homework
+828,46,牡丹,mǔdān,mudan,peony flower,2,Homework
+829,46,石榴,shíliú,shiliu,pomegranate,2,Homework
+830,46,荷花,héhuā,hehua,lotus flower,2,Homework
+831,46,茉莉花,mòlìhuā,molihua,jasmine flower,3,Homework
+832,46,桂花,guìhuā,guihua,osmanthus flower,2,Homework
+833,46,菊花,júhuā,juhua,chrysanthemum flower,2,Homework
+834,46,芙蓉,fúróng,furong,hibiscus flower,2,Homework
+835,46,水仙,shuǐxiān,shuixian,narcissus flower,2,Homework
+836,46,寒梅,hánméi,hanmei,winter plum,2,Homework
+837,46,冰霜,bīngshuāng,bingshuang,frost,2,Homework
+838,47,古时候,gǔ shíhòu,gu shihou,ancient times,3,Homework
+839,47,送,sòng,song,give,1,Homework
+840,47,大象,dà xiàng,da xiang,elephant,2,Homework
+841,47,官员们,guānyuánmen,guanyuanmen,officers,3,Homework
+842,47,一堵墙,yī dǔ qiáng,yi du qiang,a wall,3,Homework
+843,47,柱子,zhùzi,zhuzi,pillar,2,Homework
+844,47,议论,yìlùn,yilun,discuss,2,Homework
+845,47,秤,chèng,cheng,a scale (for weighing),1,Homework
+846,47,直摇头,zhí yáotóu,zhi yaotou,shake your head,3,Homework
+847,47,站出来,zhàn chūlái,zhan chulai,stand up,3,Homework
+848,47,一艘船,yī sōu chuán,yi sou chuan,a ship/boat,3,Homework
+849,47,下沉,xià chén,xia chen,sink,2,Homework
+850,47,装到,zhuāng dào,zhuang dao,load something onto,2,Homework
+851,48,拉,lā,la,pull,1,Class
+852,48,拉开,lā kāi,la kai,pull open / draw back,2,Class
+853,48,拉力,lālì,lali,the power of a pull,2,Class
+854,48,拉面,lāmiàn,lamian,hand-pulled noodles,2,Class
+855,48,拉链,lāliàn,lalian,zipper,2,Class
+856,48,马拉松,mǎlāsōng,malasong,marathon,3,Class
+857,48,扯,chě,che,pull / tear,1,Class
+858,48,拉扯,lāchě,lache,tear,2,Class
+859,48,闲扯,xiánchě,xianche,chat / gossip,2,Class
+860,48,东拉西扯,dōng lā xī chě,dong la xi che,talk at random (ramble),4,Class
+861,48,得意地,déyì de,deyi de,proudly,3,Homework
+862,48,一角,yījiǎo,yijiao,corner,2,Homework
+863,48,参加评奖,cānjiā píngjiǎng,canjia pingjiang,be judge in a contest,4,Homework
+864,48,时间不早了,shíjiān bù zǎole,shijian bu zaole,it is getting late,5,Homework
+865,48,催,cuī,cui,to urge,1,Homework
+866,48,收拾,shōushí,shoushi,put away / tidy up,2,Homework
+867,48,伤心的,shāngxīn de,shangxin de,bitterly,3,Homework
+868,48,报纸,bàozhǐ,baozhi,newspaper,2,Homework
+869,48,弄脏,nòng zāng,nong zang,stain,2,Homework
+870,48,来不及了,láibujíle,laibujile,it is too late,4,Homework
+871,48,仔细地,zǐxì de,zixi de,carefully,3,Homework
+872,48,花狗,huā gǒu,hua gou,spotted dog,2,Homework
+873,48,眯着眼睛,mī zhuó yǎnjīng,mi zhuo yanjing,squint,4,Homework
+874,48,楼梯,lóutī,louti,stairs,2,Homework
+875,48,整张画,zhěng zhāng huà,zheng zhang hua,whole painting,3,Homework
+876,48,只要,zhǐyào,zhiyao,as long as,2,Homework
+877,48,肯动,kěn dòng,ken dong,willing to move,2,Homework
+878,48,脑筋,nǎojīn,naojin,brain,2,Homework
+879,48,变成,biàn chéng,bian cheng,to become,2,Homework
+880,48,坏事,huàishì,huaishi,bad thing,2,Homework
+881,48,好事,hǎoshì,haoshi,good thing,2,Homework
+882,49,抬,tái,tai,to lift / raise,1,Class
+883,49,抬头,táitóu,taitou,look up,2,Class
+884,49,抬手,tái shǒu,tai shou,raise your hand,2,Class
+885,49,抬起,tái qǐ,tai qi,lift something,2,Class
+886,49,高抬贵手,gāotáiguìshǒu,gaotaiguishou,give another chance,4,Class
+887,49,不识抬举,bù shí táijǔ,bu shi taiju,fail to appreciate kindness,4,Class
+888,49,观察,guānchá,guancha,to view / look closely,2,Class
+889,49,观看,guānkàn,guankan,to watch,2,Class
+890,49,参观,cānguān,canguan,to visit,2,Class
+891,49,壮观,zhuàngguān,zhuangguan,spectacular,2,Class
+892,49,乐观,lèguān,leguan,optimistic,2,Class
+893,49,坐井观天,zuòjǐngguāntiān,zuojingguantian,someone with a narrow view,4,Class
+894,49,无边无际,wúbiān wújì,wubian wuji,boundless,4,Homework
+895,49,弄错,nòng cuò,nong cuo,mistake,2,Homework
+896,50,石崖,shí yá,shi ya,stone cliff,2,Homework
+897,50,山脚,shānjiǎo,shanjiao,foot of mountain,2,Homework
+898,50,缝,fèng,feng,crack,1,Homework
+899,50,窝,wō,wo,nest,1,Homework
+900,50,河,hé,he,river,1,Homework
+901,50,喜鹊,xǐquè,xique,magpie,2,Homework
+902,50,夏虫,xià chóng,xia chong,summer insects,2,Homework
+903,50,反复,fǎnfù,fanfu,repeatedly,2,Homework
+904,50,凡夫,fánfū,fanfu,ordinary people,2,Homework
+905,50,遇到,yù dào,yu dao,to meet / understand,2,Homework
+906,51,内容,nèiróng,neirong,content,2,Homework
+907,51,从前,cóngqián,congqian,once upon a time,2,Homework
+908,51,坐船,zuò chuán,zuo chuan,take a boat,2,Homework
+909,51,一不小心,yī bù xiǎoxīn,yi bu xiaoxin,accidentally,4,Homework
+910,51,挂,guà,gua,hang,1,Homework
+911,51,宝剑,bǎojiàn,baojian,sword,2,Homework
+912,51,掉进,diào jìn,diao jin,fall into,2,Homework
+913,51,江,jiāng,jiang,river,1,Homework
+914,51,马上,mǎshàng,mashang,immediately,2,Homework
+915,51,拿出,ná chū,na chu,take out,2,Homework
+916,51,船舷,chuánxián,chuanxian,the side of a ship,2,Homework
+917,51,刻,kè,ke,carve,1,Homework
+918,51,记号,jìhào,jihao,mark,2,Homework
+919,51,赶快,gǎnkuài,gankuai,hurry up,2,Homework
+920,51,什么用,shénme yòng,shenme yong,what is the use,3,Homework
+921,51,不慌不忙,bù huāng bù máng,bu huang bu mang,leisurely/calmly/not hurried ,4,Homework
+922,51,指,zhǐ,zhi,to point,1,Homework
+923,51,靠岸,kào àn,kao an,dock,2,Homework
+924,51,跳下去,tiào xiàqù,tiao xiaqu,to jump down (away from speaker),3,Homework
+925,51,跳下来,tiào xiàlái,tiao xialai,to jump down (towards speaker),3,Homework
+926,51,跳上去,tiào shàngqù,tiao shangqu,to jump up (away from speaker),3,Homework
+927,51,一样,yīyàng,yiyang,the same,2,Homework
+928,51,世界,shìjiè,shijie,world,2,Homework
+929,51,跳上来,tiào shànglái,tiao shanglai,to jump up (towards speaker),3,Homework
+930,51,外面,wàimiàn,waimian,outside,2,Homework
+931,51,准能,zhǔn néng,zhun neng,definitely able to,2,Homework
+932,51,捞,lāo,lao,to fish out (with a net or hands),1,Homework
+933,51,一点也不知道,yīdiǎn yě bù zhīdào,yidian ye bu zhidao,do not know at all,6,Homework
+934,51,高抬费手,gāo tái fèi shǒu,gao tai fei shou,to raise your hand,4,Homework
+935,51,再,zài,zai,again,1,Homework
+936,51,山顶,shāndǐng,shanding,mountaintop,2,Homework
+937,51,景色,jǐngsè,jingse,view / scenery,2,Homework
+938,51,通常,tōngcháng,tongchang,usually,2,Homework
+939,51,更,gèng,geng,even more,1,Homework
+940,51,自信,zìxìn,zixin,confidence,2,Homework
+941,51,容易,róngyì,rongyi,easy,2,Homework
+942,51,观点,guāndiǎn,guandian,point of view / opinion,2,Homework
+943,51,提拔,tíbá,tiba,promoted,2,Homework
+944,51,错过,cuòguò,cuoguo,to miss (an opportunity),2,Homework
+945,51,选择,xuǎnzé,xuanze,to choose,2,Homework
+946,51,希望,xīwàng,xiwang,to hope,2,Homework
+947,51,生意,shēngyì,shengyi,business,2,Homework
+948,51,做生意,zuò shēngyì,zuo shengyi,to do business,3,Homework
+949,51,公司,gōngsī,gongsi,(business) company,2,Homework
+950,51,在,zài,zai,at,1,Homework
+951,51,单位,dānwèi,danwei,unit,2,Homework
+952,51,销售,xiāoshòu,xiaoshou,sales,2,Homework
+953,51,交到,jiāo dào,jiao dao,communicate / interact,2,Homework
+954,51,打交道,dǎjiāodào,dajiaodao,to deal with,3,Homework
+955,51,有挑战性,yǒu tiǎozhàn xìng,you tiaozhan xing,having a challenging nature,4,Homework
+956,51,改变,gǎibiàn,gaibian,to change,2,Homework
+957,51,图书馆,túshū guǎn,tushu guan,library,3,Homework
+958,51,被,bèi,bei,(marks passive voice),1,Homework
+959,51,骗,piàn,pian,cheated,1,Homework
+960,51,开除,kāichú,kai chu,to be fired,2,Homework
+961,51,骂,mà,ma,to scold / yell at,1,Homework
+962,51,钱包,qiánbāo,qianbao,wallet,2,Homework
+963,51,得,dé,de,have to,1,Class
+964,51,得到,dédào,dedao,get,2,Class
+965,51,取得,qǔdé,qude,obtain,2,Class
+966,51,值得,zhídé,zhide,worth,2,Class
+967,51,得体,détǐ,deti,behave oneself,2,Class
+968,51,得过且过,déguòqiěguò,deguoqieguo,do not think about the future,4,Class
+969,51,得意洋洋,déyì yángyáng,deyi yangyang,be too cocky / too proud,4,Class
+970,51,记得,jìdé,jide,remember,2,Class
+971,51,觉得,juédé,juede,feel,2,Class
+972,51,舍不得,shěbudé,shebude,reluctant to part with,3,Class
+973,51,必须得,bìxū děi,bixu dei,must,3,Class
+974,51,非得,fēiděi,feidei,must,2,Class
+975,52,售票,shòupiào,shoupiao,ticket sales,2,Homework
+976,52,轻松,qīngsōng,qingsong,easy / easy going,2,Homework
+977,52,对我来说,duì wǒ lái shuō,dui wo lai shuo,for me / in my view,4,Homework
+978,52,重要,zhòngyào,zhongyao,important,2,Homework
+979,52,毕业,bìyè,biye,graduate,2,Homework
+980,52,打算,dǎsuàn,dasuan,intend / plans,2,Homework
+981,52,情人节,qíngrén jié,qingren jie,Valentines Day,3,Homework
+982,52,继续,jìxù,jixu,to continue,2,Homework
+983,52,深造,shēnzào,shenzao,advanced studies,2,Homework
+984,52,出国,chūguó,chuguo,go abroad,2,Homework
+985,52,追求,zhuīqiú,zhuiqiu,to pursue / pursuit,2,Homework
+986,52,就行,jiùxíng,jiuxing,that will do / good enough,2,Homework
+987,52,了不起,liǎobùqǐ,liaobuqi,remarkable,3,Homework
+988,52,结婚,jiéhūn,jiehun,to get married,2,Homework
+989,52,暂时,zhànshí,zhanshi,the time being,2,Homework
+990,52,孤立,gūlì,guli,isolated,2,Class
+991,52,台,tái,tai,tower,1,Class
+992,52,阳台,yángtái,yangtai,balcony,2,Class
+993,52,台风,táifēng,taifeng,typhoon,2,Class
+994,52,台灯,táidēng,taideng,desk lamp,2,Class
+995,52,平台,píngtái,pingtai,platform,2,Class
+996,52,台湾,táiwān,taiwan,Taiwan,2,Class
+997,52,唱对台戏,chàngduìtáixì,changduitaixi,singing opposite roles,4,Class
+998,52,治,zhì,zhi,rule,1,Class
+999,52,治疗,zhìliáo,zhiliao,treat,2,Class
+1000,52,治安,zhìān,zhian,public safety,2,Class
+1001,52,治理,zhìlǐ,zhili,governance / control,2,Class
+1002,52,政治,zhèngzhì,zhengzhi,politics,2,Class
+1003,52,治病救人,zhìbìngjiùrén,zhibingjiuren,treat illnesses and save lives,4,Class
+1004,52,葫芦,húlu,hulu,gourd,2,Homework
+1005,52,自言自语,zì yán zì yǔ,zi yan zi yu,say to oneself,4,Homework
+1006,52,奇怪,qíguài,qiguai,strange,2,Homework
+1007,52,一个一个,yīgè yīgè,yige yige,one by one,4,Homework
+1008,52,进步,jìnbù,jinbu,progress,2,Homework
+1009,52,晚会,wǎnhuì,wanhui,party,2,Homework
+1010,52,举止,jǔzhǐ,juzhi,manners,2,Homework
+1011,52,获得,huòdé,huode,get,2,Homework
+1012,52,等奖,děng jiǎng,deng jiang,prize,2,Homework
+1013,52,得力助手,délì zhùshǒu,deli zhushou,right-hand man,4,Homework
+1014,52,努力,nǔlì,nuli,high effort,2,Homework
+1015,53,职责,zhízé,zhize,duty / responsibility,2,Homework
+1016,53,决定,juédìng,jueding,to decide,2,Homework
+1017,53,发展才向,fāzhǎn cái xiàng,fazhan cai xiang,development direction,4,Homework
+1018,53,领导,lǐngdǎo,lingdao,leader,2,Homework
+1019,53,结果,jiéguǒ,jieguo,result,2,Homework
+1020,53,生活,shēnghuó,shenghuo,life,2,Homework
+1021,53,正在,zhèngzài,zhengzai,doing something right now,2,Homework
+1022,53,红色,hóngsè,hongse,red,2,Homework
+1023,53,橙色,chéngsè,chengse,orange,2,Homework
+1024,53,黄色,huángsè,huangse,yellow,2,Homework
+1025,53,绿色,lǜsè,luse,green,2,Homework
+1026,53,蓝色,lán sè,lan se,blue,2,Homework
+1027,53,紫色,zǐsè,zise,purple,2,Homework
+1028,53,黑色,hēisè,heise,black,2,Homework
+1029,53,白色,báisè,baise,white,2,Homework
+1030,53,颜色,yánsè,yanse,color,2,Homework
+1031,53,适合,shìhé,shihe,suitable,2,Homework
+1032,53,裙子,qúnzi,qunzi,skirt,2,Homework
+1033,53,珍珠,zhēnzhū,zhenzhu,pearl,2,Homework
+1034,53,奶茶,nǎichá,naicha,milk tea,2,Homework
+1035,53,春天,chūntiān,chuntian,spring,2,Homework
+1036,53,凉快,liángkuai,liangkuai,cool,2,Homework
+1037,53,暖和,nuǎnhuo,nuanhuo,warm,2,Homework
+1038,53,干净,gānjìng,ganjing,clean,2,Homework
+1039,53,脏,zāng,zang,dirty,1,Homework
+1040,53,而且,érqiě,erqie,furthermore,2,Homework
+1041,53,海边,hǎibiān,haibian,seaside / beach,2,Homework
+1042,53,重口味,zhòng kǒuwèi,zhong kouwei,hardcore,3,Homework
+1043,53,冰激凌,bīngjīlíng,bingjiling,ice cream,3,Homework
+1044,53,尽情地,jìnqíng de,jinqing de,to your hearts content,3,Homework

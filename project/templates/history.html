@@ -1,0 +1,71 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Register
+{% endblock %}
+
+{% block main %}
+    {% if length != 0 %}
+        {% if best is defined %}
+            <br>
+            <h3>Vocabulary You're Comfortable With</h3>
+            <table class=char-history-table>
+                <thead>
+                    <tr>
+                        <th> Chinese </th>
+                        <th> Pinyin </th>
+                        <th> English </th>
+                        <th> Correct </th>
+                        <th> Seen </th>
+                        <th> Accuracy </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for char in best %}
+                        <tr>
+                            <td>{{ char.chinese }}</td>
+                            <td>{{ char.pinyin }}</td>
+                            <td>{{ char.english }}</td>
+                            <td>{{ char.correct }}</td>
+                            <td>{{ char.seen }}</td>
+                            <td>{{ char.accuracy }}%</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            <br>
+            <h3>Vocabulary You Need Practice With</h3>
+            <table class=char-history-table>
+                <thead>
+                    <tr>
+                        <th> Chinese </th>
+                        <th> Pinyin </th>
+                        <th> English </th>
+                        <th> Correct </th>
+                        <th> Seen </th>
+                        <th> Accuracy </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for char in worst %}
+                        <tr>
+                            <td>{{ char.chinese }}</td>
+                            <td>{{ char.pinyin }}</td>
+                            <td>{{ char.english }}</td>
+                            <td>{{ char.correct }}</td>
+                            <td>{{ char.seen }}</td>
+                            <td>{{ char.accuracy }}%</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        {% else %}
+            <br>
+            <h6>Please Login to View Character Stats</h6>
+        {% endif %}
+        {% else %}
+        <br>
+        <h6>No Results Found</h6>
+        <h6>Click the Links Above to Start a Quiz!</h6>
+    {% endif %}
+{% endblock %}

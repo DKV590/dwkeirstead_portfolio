@@ -1,0 +1,51 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quiz
+{% endblock %}
+
+{% block main %}
+    <br>
+    <h3>{{ quiz_type }} Quiz Results</h3>
+    <br>
+    <table class=results-table>
+        <thead>
+            <tr>
+                <th> Question # </th>
+                <th> Your Answer </th>
+                <th> Correct Answer </th>
+                <th> Result </th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for answer in correct_answers %}
+                <tr>
+                    <td><b>{{ loop.index }}</b></td>
+                    {% if user_answers[loop.index - 1].id is defined %}
+                        <td>{{ user_answers[loop.index - 1].chinese }} ({{ user_answers[loop.index - 1].pinyin }}) <br> {{ user_answers[loop.index - 1].english }}</td>
+                    {% else %}
+                        <td>No answer provided</td>
+                    {% endif %}
+                    <td>{{ answer.chinese }} ({{ answer.pinyin }}) <br> {{ answer.english }}</td>
+                    {% if answer.id == user_answers[loop.index - 1].id %}
+                        <td style="color:green;"><b>CORRECT</b></td>
+                    {% else %}
+                        <td style="color:red;"><b>INCORRECT</b></td>
+                    {% endif %}
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <br>
+    <h6>Questions Answered Correctly: {{ number_correct_string }}</h6>
+    <h6>Quiz Score: {{ quiz_precent }}%</h6>
+    <small><b>**PLEASE DO NOT REFRESH THIS PAGE**</b></small>
+    <hr>
+    <a href="/vocab-quiz">
+        <button class="btn btn-primary" type="submit">New Vocab Quiz</button>
+    </a>
+    <a href="/pinyin-quiz">
+        <button class="btn btn-primary" type="submit">New Pinyin Quiz</button>
+    </a>
+
+{% endblock %}

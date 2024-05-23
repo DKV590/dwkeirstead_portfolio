@@ -1,0 +1,46 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Pinyin Quiz Select
+{% endblock %}
+
+{% block main %}
+    <br>
+    <h3>New Pinyin Quiz</h3>
+    <br>
+    <h6><u>Select Format</u></h6>
+    <form action="/pinyin-quiz" method="post">
+        <input type="radio" name="format" value="chinese_pinyin"> Chinese to Pinyin<br>
+        <input type="radio" name="format" value="pinyin_chinese"> Pinyin to Chinese<br>
+    <br>
+    <select name="question_count">
+        <option value="" disabled selected># of Questions</option>
+        {% for count in question_count %}
+            <option value="{{ count }}">{{ count }} </option>
+        {% endfor %}
+    </select>
+    </select>
+    <select name="other">
+        <option value="" disabled selected>Display English?</option>
+        {% for option in other %}
+            <option value="{{ option }}">{{ option }} </option>
+        {% endfor %}
+    </select>
+    <select name="chars">
+        <option value="" disabled selected># of Characters</option>
+        {% for count in characters %}
+            <option value="{{ count }}">{{ count }} </option>
+        {% endfor %}
+    </select>
+    <select name="difficulty">
+        <option value="" disabled selected>Difficulty</option>
+        {% for level in difficulty %}
+            <option value="{{ level }}">{{ level }} </option>
+        {% endfor %}
+        </select>
+        <hr>
+        <div>
+            <button class="btn btn-primary" type="submit">Start Quiz</button>
+        </div>
+        </form>
+    {% endblock %}

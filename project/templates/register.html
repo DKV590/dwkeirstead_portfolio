@@ -1,0 +1,41 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Register
+{% endblock %}
+
+{% block main %}
+    <br>
+    <h3>Register an Account for 花好月圆</h3>
+    <br>
+    <form action="/register" method="post">
+        <div class="mb-3">
+            <input autocomplete="off" autofocus class="form-control mx-auto w-auto" name="username" placeholder="Username" type="text">
+        </div>
+        <div class="mb-3">
+            <input class="form-control mx-auto w-auto" name="password" placeholder="Password" type="password">
+        </div>
+        <div class="mb-3">
+            <input class="form-control mx-auto w-auto" name="confirmation" placeholder="Confirm Password" type="password">
+        </div>
+        <button class="btn btn-primary" type="submit">Register</button>
+        <hr>
+    </form>
+    <br>
+    <h4><u>Password Requirements</u></h4>
+    <li>At least 8 Characters in Length</li>
+    <li>At least 1 Upper Case Letter</li>
+    <li>At least 1 Lower Case Letter</li>
+    <li>At least 1 Number</li>
+    <li>At least 1 Special Character</li>
+    <br>
+    <p>Special Characters Include: ?!@#$%&</p>
+    <hr>
+    {% if error is defined %}
+        <h6 style="color:red;"><u><b>{{ error }}</u></b></h6></th>
+        {% if error_code is defined %}
+            <h6 style="color:red;"><b>{{ error_code }}</b></h6></th>
+        {% endif %}
+    {% endif %}
+{% endblock %}
+

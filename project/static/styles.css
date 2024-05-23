@@ -1,0 +1,170 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar > div {
+    display: flex;
+    flex-direction: row;
+}
+
+body {
+    background-color: #a1baa0;
+    font-size: 1.05rem;
+    font-weight: 500;
+    padding: 0.5rem 0.5rem;
+    text-align: center;
+}
+
+button {
+    background-color: #d6a738;
+    border: 1.5px solid;
+    border-radius: 0.5rem;
+    font-size: 0.95rem;
+    font-weight: 500;
+    line-height: 1;
+    padding: 0.5rem 0.5rem;
+    vertical-align: middle;
+}
+
+.btn {
+    background-color: #d6a738;
+    border: 1.5px solid;
+    border-radius: 0.5rem;
+    font-size: 0.95rem;
+    font-weight: 500;
+    line-height: 1;
+    padding: 0.5rem 0.5rem;
+    vertical-align: middle;
+}
+
+h1, h2 {
+    background-color: #228B22;
+    color: #d6a738;
+    padding: 1rem 1rem;
+    text-align: center;
+    font-family: fangsong;
+    font-weight: 888;
+}
+
+h3 {
+    font-family: fangsong;
+    font-weight: 888;
+}
+
+th {
+    border: 1px solid black;
+    background-color: #228B22;
+    color: #000000;
+}
+
+table, td {
+    border: 1px solid black;
+    background-color: #f8f9fa;
+}
+
+.quiz-table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    border: 2px;
+}
+
+.quiz-table td:nth-child(1) { /* targets the first column */
+    width: 22px;
+}
+
+.quiz-table td:nth-child(2) { /* targets the second column */
+    width: 188px;
+}
+
+.results-table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    width: 816px;
+    border: 2px;
+}
+
+.results-table td:nth-child(1) { /* targets the first column */
+    width: 108px;
+}
+
+.results-table td:nth-child(2) { /* targets the second column */
+    width: 300px;
+}
+
+.results-table td:nth-child(3) { /* targets the second column */
+    width: 300px;
+}
+
+.results-table td:nth-child(4) { /* targets the second column */
+    width: 108px;
+}
+
+.quiz-history-table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    width: 771px;
+    border: 2px;
+}
+
+.quiz-history-table td:nth-child(1) { /* targets the first column */
+    width: 188px;
+}
+
+.quiz-history-table td:nth-child(2) { /* targets the second column */
+    width: 135px;
+}
+
+.quiz-history-table td:nth-child(3) { /* targets the first column */
+    width: 135px;
+}
+
+.quiz-history-table td:nth-child(4) { /* targets the second column */
+    width: 135px;
+}
+
+.quiz-history-table td:nth-child(5) { /* targets the first column */
+    width: 188px;
+}
+
+.char-history-table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    border: 2px;
+}
+
+.char-history-table td:nth-child(1) {
+    width: 148px;
+}
+
+.char-history-table td:nth-child(2) {
+    width: 195px;
+}
+
+.char-history-table td:nth-child(3) {
+    width: 225px;
+}
+
+.char-history-table td:nth-child(4) {
+    width: 77;
+}
+
+.char-history-table td:nth-child(5) {
+    width: 77;
+}
+
+.char-history-table td:nth-child(6) {
+    width: 100px;
+}
+
+select {
+    padding: 3px;
+    border-radius: 15px;
+    border: 3px solid #ccc;
+}

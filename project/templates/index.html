@@ -1,0 +1,48 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Home
+{% endblock %}
+
+{% block main %}
+    <br>
+    <h3>Welcome, <u><b>{{ username }}</b></u> to 花好月圆!</h3>
+    {% if username == "Guest" %}
+        <h6>If you would like to track your quiz results and progress, please <a href="/login"><b>Log In</b></a></h6>
+    {% else %}
+        <br>
+        {% if length != 0 %}
+        <h4>Your All Time Weighted Quiz Average:</h4>
+        <h4>{{ quiz_average }}%</h4>
+        <br>
+        <h5>Recent Quiz Results:</h5>
+            <table class=quiz-history-table>
+                <thead>
+                    <tr>
+                        <th>Quiz Type</th>
+                        <th># Correct</th>
+                        <th># of Questions</th>
+                        <th>Overall Score</th>
+                        <th>Date/Time Taken</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for quiz in recent_quizzes %}
+                        <tr>
+                            <td>{{ quiz.type }}</td>
+                            <td>{{ quiz.correct }}</td>
+                            <td>{{ quiz.questions }}</td>
+                            <td>{{ quiz.score }}%</td>
+                            <td>{{ quiz.datetime }}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            <small>(Displaying up to 10 Most Recent)</small>
+            <hr>
+        {% else %}
+            <h6>No Results Found</h6>
+            <h6>Click the Links Above to Start a Quiz!</h6>
+        {% endif %}
+    {% endif %}
+{% endblock %}
