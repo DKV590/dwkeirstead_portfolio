@@ -1,5 +1,5 @@
 # CS50X FINAL PROJECT 2024
-# HuaHaoYueYuan (花好月圆): A Chinese Vocab Practice App
+# HuaHaoYueYuan (花好月圆): A Chinese Vocab Practice Web App
 By David Keirstead
 
 #### Video Demo: https://www.youtube.com/watch?v=jlCQPKHETFM
